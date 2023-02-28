@@ -38,5 +38,5 @@ Here are some ideas to get you started:
 | [![zsStrike's github stats](https://github-readme-stats.vercel.app/api?username=zsStrike&show_icons=true&hide_title=false&hide_border=true&&hide=contribs)](https://github.com/zsStrike/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zsStrike&layout=compact&hide=go&hide_border=true&&langs_count=6)](https://github.com/zsStrike/github-readme-stats) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
-<!-- [![zsStrike's github stats](https://github-readme-stats.vercel.app/api?username=zsStrike&show_icons=true&hide_title=false&hide_border=true&&hide=contribs)](https://github.com/zsStrike/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zsStrike&layout=compact&hide=go&hide_border=true&&langs_count=6)](https://github.com/zsStrike/github-readme-stats) -->
+[![zsStrike's github stats](https://github-readme-stats.vercel.app/api?username=zsStrike&show_icons=true&hide_title=false&hide_border=true&&hide=contribs)](https://github.com/zsStrike/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zsStrike&layout=compact&hide=go&hide_border=true&&langs_count=6)](https://github.com/zsStrike/github-readme-stats)
 
